@@ -1,0 +1,34 @@
+.character-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .character-card {
+    margin-bottom: 20px;
+  }
+  
+  .character-info {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+
+  body {
+    background-image: url('img/RM_BG.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  header{
+    text-align: center;
+  }
